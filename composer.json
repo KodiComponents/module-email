@@ -1,0 +1,24 @@
+{
+    "name":        "kodicms/email",
+    "type":        "kodicms-module",
+    "description": "The official KodiCMS Email module",
+    "homepage":    "http://www.kodicms.ru/",
+    "license":     "MIT",
+    "keywords":    ["laravel", "framework", "kodicms", "cms", "module", "email"],
+    "authors": [
+        {
+            "name":     "Pavel Buchnev",
+            "email":    "butschster@gmail.com",
+            "homepage": "http://www.kodicms.ru/",
+            "role":     "developer"
+        }
+    ],
+    "support": {
+        "issues":   "https://github.com/KodiComponents/module-email/issues",
+        "forum":    "http://www.kodicms.ru/forum",
+        "source":   "https://github.com/KodiComponents/module-email"
+    },
+    "require": {
+        "kodicms/core": "dev-master"
+    }
+}
